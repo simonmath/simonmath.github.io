@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 mail : simon.guisset@uni-leipzig.de</p>
+    <p> <a href='#'>mail </a> : simon.guisset@uni-leipzig.de</p>
     <p>123 Brüderstr. 16 (back of the building, yellow door)</p>
     <p>D-04103 Leipzig</p>
 
